@@ -1,0 +1,521 @@
+,rowid,unique_id,types,abilities,base_happiness,height_m,weight_kg,poke_stats,is_legendary
+0,1,665,"fighting, nan","['Guts', 'Sheer Force', 'Iron Fist']",70.0,0.6,12.5,"nan, 80.0, 55.0, 25.0, 35.0, 35.0",0
+1,2,288,"dragon, nan","['Bulletproof', 'Soundproof', 'Overcoat']",70.0,0.6,29.7,"nan, nan, 65.0, 45.0, 45.0, 45.0",0
+2,3,349,"poison, fire","['Corrosion', 'Oblivious']",70.0,1.2,22.2,"nan, 64.0, 60.0, 111.0, 60.0, 117.0",0
+3,4,260,"ground, nan","['Rock Head', 'Lightningrod', 'Battle Armor']",70.0,0.4,6.5,"nan, 50.0, 95.0, 40.0, 50.0, 35.0",0
+4,5,536,"water, nan","['Torrent', 'Sheer Force']",70.0,0.6,9.5,"nan, 65.0, 64.0, 44.0, 48.0, 43.0",0
+5,6,293,"dragon, fire",['Turboblaze'],0.0,3.2,330.0,"nan, 120.0, 100.0, 150.0, 120.0, 90.0",1
+6,7,181,"ground, dragon",['Levitate'],70.0,1.1,15.3,"nan, 70.0, 50.0, 50.0, 50.0, 70.0",0
+7,8,554,"poison, ground","['Poison Point', 'Rivalry', 'Sheer Force']",70.0,1.3,60.0,"nan, 92.0, 87.0, 75.0, 85.0, 76.0",0
+8,9,507,"bug, electric",['Battery'],70.0,0.5,10.5,"nan, 82.0, 95.0, 55.0, 75.0, 36.0",0
+9,10,140,"rock, poison",['Beast Boost'],0.0,1.2,55.5,"109, 53.0, 47.0, 127.0, 131.0, 103.0",1
+10,11,346,"grass, nan",['Levitate'],70.0,1.4,27.0,"74, nan, 72.0, 90.0, 72.0, 46.0",0
+11,12,723,"water, flying","['Swift Swim', 'Water Absorb', 'Water Veil']",70.0,2.1,220.0,"nan, nan, 70.0, 80.0, 140.0, 70.0",0
+12,13,214,"normal, nan","['Stakeout', 'Strong Jaw', 'Adaptability']",70.0,0.7,14.2,"nan, 110.0, 60.0, 55.0, 60.0, 45.0",0
+13,14,497,"water, nan",['Schooling'],70.0,0.2,0.3,"nan, 140.0, nan, nan, nan, 30.0",0
+14,15,271,"ice, nan","['Ice Body', 'Snow Cloak', 'Weak Armor']",70.0,0.4,5.7,"nan, 50.0, 50.0, 65.0, 60.0, 44.0",0
+15,16,178,"bug, rock","['Sturdy', 'Gluttony', 'Contrary']",70.0,0.6,20.5,"nan, nan, 230.0, 10.0, 230.0, 5.0",0
+16,17,120,"water, ground","['Oblivious', 'Anticipation', 'Hydration']",70.0,0.4,1.9,"nan, nan, 43.0, 46.0, 41.0, 60.0",0
+17,18,595,"dark, fighting","['Shed Skin', 'Moxie', 'Intimidate']",35.0,0.6,11.8,"nan, 75.0, 70.0, 35.0, 70.0, 48.0",0
+18,19,422,"water, nan","['Hyper Cutter', 'Shell Armor', 'Adaptability']",70.0,0.6,11.5,"43, 80.0, 65.0, 50.0, 35.0, 35.0",0
+19,20,667,"dragon, nan","['Sap Sipper', 'Hydration', 'Gooey']",35.0,2.0,150.5,"nan, 100.0, 70.0, 110.0, 150.0, 80.0",0
+20,21,267,"electric, nan","['Static', 'Plus']",70.0,0.6,7.8,"nan, 40.0, 40.0, 65.0, 45.0, 35.0",0
+21,22,523,"water, nan","['Torrent', 'Sheer Force']",70.0,2.3,88.8,"nan, 105.0, 100.0, 79.0, 83.0, 78.0",0
+22,23,759,"bug, nan","['Shed Skin', 'Overcoat']",70.0,0.2,3.4,"nan, nan, 45.0, 29.0, nan, 36.0",0
+23,24,781,"poison, nan","['Intimidate', 'Shed Skin', 'Unnerve']",70.0,3.5,65.0,"nan, nan, 69.0, nan, 79.0, 80.0",0
+24,25,560,"fairy, nan","['Sweet Veil', 'Unburden']",70.0,0.4,3.5,"nan, 48.0, nan, 59.0, 57.0, 49.0",0
+25,26,246,"rock, ground","['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",70.0,,,"nan, nan, 130.0, 55.0, nan, 45.0",0
+26,27,623,"fire, nan","['Magma Armor', 'Flame Body', 'Weak Armor']",70.0,0.7,35.0,"nan, nan, 40.0, 70.0, 40.0, 20.0",0
+27,28,324,"rock, nan","['Sturdy', 'Sand Stream', 'Sand Force']",70.0,1.7,260.0,"nan, 135.0, 130.0, 60.0, 80.0, 25.0",0
+28,29,269,"grass, dark","['Chlorophyll', 'Early Bird', 'Pickpocket']",70.0,1.3,59.6,"nan, nan, nan, 90.0, nan, 80.0",0
+29,30,715,"grass, poison","['Effect Spore', 'Regenerator']",70.0,0.2,1.0,"nan, nan, 45.0, 55.0, nan, 15.0",0
+30,31,625,"fighting, nan","['Guts', 'Steadfast', 'Vital Spirit']",70.0,0.7,21.0,"nan, nan, 35.0, 35.0, 35.0, 35.0",0
+31,32,15,"fighting, nan","['Thick Fat', 'Guts', 'Sheer Force']",70.0,2.3,253.8,"144, nan, 60.0, 40.0, 60.0, 50.0",0
+32,33,210,"normal, nan","['Technician', 'Pickup', 'Skill Link']",100.0,1.2,20.3,"nan, 100.0, 66.0, 60.0, 66.0, 115.0",0
+33,34,528,"poison, nan",['Levitate'],70.0,1.2,9.5,"65, nan, 120.0, 85.0, 70.0, 60.0",0
+34,35,184,"grass, poison","['Chlorophyll', 'Gluttony']",70.0,1.7,15.5,"nan, 105.0, 65.0, 100.0, 70.0, 70.0",0
+35,36,366,"water, ice","['Water Absorb', 'Shell Armor', 'Hydration']",70.0,2.5,220.0,"nan, 85.0, 80.0, 85.0, nan, 60.0",0
+36,37,71,"ground, ice","['Sand Veil', 'Sand Rush', 'Snow Cloak', 'Slush Rush']",,,,"nan, 75.0, 90.0, 10.0, 35.0, 40.0",0
+37,38,244,"fire, nan","['Run Away', 'Flash Fire', 'Flame Body']",70.0,1.7,95.0,"nan, 100.0, 70.0, nan, 80.0, 105.0",0
+38,39,236,"psychic, grass",['Natural Cure'],100.0,0.6,5.0,"nan, nan, 100.0, 100.0, nan, 100.0",1
+39,40,777,"poison, flying","['Inner Focus', 'Infiltrator']",70.0,1.8,75.0,"nan, nan, 80.0, 70.0, nan, 130.0",0
+40,41,167,"grass, poison","['Overgrow', 'Chlorophyll']",70.0,2.0,100.0,"nan, 100.0, 123.0, 122.0, 120.0, 80.0",0
+41,42,417,"ghost, nan","['Insomnia', 'Frisk', 'Cursed Body']",35.0,0.6,2.3,"nan, 75.0, 35.0, 63.0, 33.0, 45.0",0
+42,43,90,"rock, steel","['Sturdy', 'Magnet Pull', 'Sand Force']",70.0,1.4,340.0,"nan, nan, 145.0, nan, nan, 40.0",0
+43,44,616,"dragon, nan","['Rivalry', 'Mold Breaker', 'Unnerve']",35.0,0.6,18.0,"46, 87.0, 60.0, 30.0, 40.0, 57.0",0
+44,45,33,"bug, flying","['Speed Boost', 'Tinted Lens', 'Frisk']",70.0,1.9,51.5,"nan, 76.0, 86.0, 116.0, 56.0, 95.0",0
+45,46,499,"normal, nan","['Intimidate', 'Sand Rush', 'Scrappy']",70.0,0.9,14.7,"65, 80.0, 65.0, 35.0, 65.0, 60.0",0
+46,47,640,"dark, nan",['Bad Dreams'],0.0,1.5,50.5,"nan, 90.0, 90.0, 135.0, 90.0, 125.0",1
+47,48,130,"bug, poison","['Shield Dust', 'Run Away']",70.0,0.3,3.2,"nan, 35.0, nan, 20.0, 20.0, 50.0",0
+48,49,384,"normal, grass","['Chlorophyll', 'Sap Sipper', 'Serene Grace']",70.0,0.6,19.5,"60, nan, nan, 40.0, 50.0, 75.0",0
+49,50,738,"bug, nan",['Shed Skin'],,0.7,11.5,"nan, 35.0, 55.0, 25.0, nan, 15.0",0
+50,51,381,"bug, nan","['Swarm', 'Shed Skin', 'No Guard']",70.0,0.5,5.9,"50, nan, 45.0, 40.0, 45.0, 60.0",0
+51,52,563,"electric, nan",['Beast Boost'],0.0,3.8,100.0,"nan, nan, 71.0, nan, 71.0, 83.0",1
+52,53,787,"ground, flying","['Hyper Cutter', 'Sand Veil', 'Poison Heal']",70.0,2.0,42.5,"nan, nan, 125.0, 45.0, 75.0, 95.0",0
+53,54,362,"grass, poison","['Chlorophyll', 'Run Away']",70.0,0.5,5.4,"nan, nan, 55.0, 75.0, nan, 30.0",0
+54,55,171,"poison, nan","['Liquid Ooze', 'Sticky Hold', 'Gluttony']",70.0,0.4,10.3,"nan, 43.0, 53.0, 43.0, nan, 40.0",0
+55,56,547,"water, ground","['Oblivious', 'Anticipation', 'Hydration']",70.0,0.9,23.6,"nan, nan, 73.0, 76.0, 71.0, 60.0",0
+56,57,145,"rock, ground",['Shed Skin'],35.0,1.2,152.0,"nan, nan, 70.0, 65.0, 70.0, 51.0",0
+57,58,5,"normal, flying","['Big Pecks', 'Super Luck', 'Rivalry']",70.0,1.2,29.0,"nan, nan, 80.0, 65.0, 55.0, 93.0",0
+58,59,14,"rock, grass","['Suction Cups', 'Storm Drain']",70.0,1.0,23.8,"nan, nan, nan, 61.0, 87.0, 23.0",0
+59,60,436,"water, nan","['Water Absorb', 'Hydration']",70.0,1.0,29.0,"nan, 65.0, 60.0, 110.0, 95.0, 65.0",0
+60,61,347,"water, ground","['Swift Swim', 'Poison Touch', 'Water Absorb']",70.0,1.5,62.0,"nan, 95.0, 75.0, 85.0, nan, 74.0",0
+61,62,66,"ice, nan","['Clear Body', 'Ice Body']",,1.8,175.0,"nan, nan, nan, 100.0, 200.0, 50.0",1
+62,63,772,"ghost, nan",['Levitate'],35.0,0.7,1.0,"nan, nan, 60.0, 85.0, 85.0, 85.0",0
+63,64,450,"poison, poison","['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",70.0,,,"nan, 105.0, 75.0, 65.0, nan, 50.0",0
+64,65,190,"fairy, nan","['Cute Charm', 'Magic Guard', 'Friend Guard']",140.0,0.3,3.0,"nan, 25.0, 28.0, 45.0, 55.0, 15.0",0
+65,66,486,"water, dark","['Hyper Cutter', 'Shell Armor', 'Adaptability']",70.0,1.1,32.8,"nan, nan, 85.0, nan, 55.0, 55.0",0
+66,67,470,"ground, ground","['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",70.0,,,"nan, 100.0, 60.0, 50.0, 70.0, 110.0",0
+67,68,124,"bug, flying","['Swarm', 'Technician', 'Steadfast']",70.0,1.5,56.0,"70, 110.0, 80.0, 55.0, nan, 105.0",0
+68,69,731,"steel, psychic","['Clear Body', 'Light Metal']",35.0,1.2,202.5,"nan, 75.0, 100.0, 55.0, 80.0, 50.0",0
+69,70,634,"water, nan",['Drizzle'],0.0,4.5,352.0,"nan, 150.0, 90.0, 180.0, 160.0, 90.0",1
+70,71,757,"grass, fairy","['Prankster', 'Infiltrator', 'Chlorophyll']",,0.3,0.6,"nan, 27.0, 60.0, 37.0, nan, 66.0",0
+71,72,332,"poison, fire","['Corrosion', 'Oblivious']",70.0,0.6,4.8,"nan, nan, 40.0, 71.0, 40.0, 77.0",0
+72,73,299,"bug, steel","['Sturdy', 'Overcoat']",70.0,1.2,125.8,"nan, 90.0, 140.0, 60.0, nan, 40.0",0
+73,74,737,"water, nan","['Torrent', 'Rain Dish']",70.0,0.5,9.0,"nan, 48.0, 65.0, 50.0, 64.0, 43.0",0
+74,75,496,"steel, ghost",['Stance Change'],70.0,1.7,53.0,"60, nan, 50.0, 150.0, 50.0, 60.0",0
+75,76,234,"ghost, fire","['Flash Fire', 'Flame Body', 'Infiltrator']",70.0,1.0,34.3,"nan, 55.0, 90.0, 145.0, nan, 80.0",0
+76,77,79,"water, nan","['Innards Out', 'Unaware']",70.0,0.3,1.2,"nan, 60.0, 130.0, 30.0, nan, 5.0",0
+77,78,580,"fire, fighting","['Blaze', 'Thick Fat']",70.0,1.0,55.5,"nan, nan, 55.0, 70.0, 55.0, 55.0",0
+78,79,734,"water, nan","['Damp', 'Cloud Nine', 'Swift Swim']",70.0,0.8,19.6,"nan, 52.0, 48.0, 65.0, nan, 55.0",0
+79,80,157,"bug, electric","['Compoundeyes', 'Unnerve', 'Swarm']",70.0,0.1,0.6,"nan, 47.0, 50.0, 57.0, 50.0, 65.0",0
+80,81,282,"water, psychic","['Oblivious', 'Own Tempo', 'Regenerator']",70.0,2.0,79.5,"nan, 75.0, 80.0, 100.0, 110.0, nan",0
+81,82,695,"ghost, dark","['Pressure', 'Infiltrator']",70.0,1.0,108.0,"nan, 92.0, 108.0, 92.0, 108.0, 35.0",0
+82,83,102,"steel, psychic",['Serene Grace'],100.0,0.3,1.1,"100, 100.0, 100.0, 100.0, 100.0, 100.0",1
+83,84,380,"bug, nan",['Shed Skin'],70.0,0.7,9.9,"nan, nan, 55.0, 25.0, 25.0, 30.0",0
+84,85,611,"ground, rock","['Lightningrod', 'Rock Head', 'Reckless']",70.0,1.9,120.0,"nan, 130.0, 120.0, 45.0, 45.0, 40.0",0
+85,86,36,"ice, ghost","['Snow Cloak', 'Cursed Body']",70.0,1.3,26.6,"nan, 80.0, 70.0, 80.0, 70.0, 110.0",0
+86,87,456,"normal, dark","['Limber', 'Technician', 'Unnerve', 'Fur Coat', 'Technician', 'Rattled']",70.0,,,"65, 60.0, 60.0, nan, 65.0, 115.0",0
+87,88,629,"fighting, nan","['Hyper Cutter', 'Iron Fist', 'Anger Point']",70.0,0.6,7.0,"nan, 82.0, 57.0, 42.0, nan, 63.0",0
+88,89,385,"electric, flying","['Static', 'Motor Drive']",70.0,0.4,5.0,"nan, 75.0, 60.0, nan, 60.0, 103.0",0
+89,90,379,"ground, electric","['Static', 'Limber', 'Sand Veil']",70.0,0.7,11.0,"nan, 66.0, 84.0, 81.0, nan, 32.0",0
+90,91,100,"electric, electric","['Static', 'Lightningrod', 'Surge Surfer']",70.0,,,"nan, 85.0, 50.0, 95.0, 85.0, 110.0",0
+91,92,392,"grass, nan","['Leaf Guard', 'Contrary']",70.0,0.3,1.5,"nan, 55.0, 35.0, nan, 35.0, 35.0",0
+92,93,605,"grass, flying","['Chlorophyll', 'Leaf Guard', 'Infiltrator']",,0.8,3.0,"nan, nan, 70.0, 55.0, 95.0, 110.0",0
+93,94,9,"water, nan","['Gluttony', 'Torrent']",70.0,1.0,29.0,"nan, 98.0, 63.0, 98.0, 63.0, 101.0",0
+94,95,444,"water, nan","['Gluttony', 'Torrent']",70.0,0.6,13.5,"nan, 53.0, 48.0, nan, 48.0, 64.0",0
+95,96,462,"ghost, nan","['Levitate', 'Frisk']",35.0,0.8,15.0,"nan, 40.0, 90.0, 30.0, 90.0, 25.0",0
+96,97,513,"steel, psychic","['Levitate', 'Heatproof', 'Heavy Metal']",70.0,0.5,60.5,"nan, 24.0, 86.0, 24.0, 86.0, 23.0",0
+97,98,64,"normal, nan","['Soundproof', 'Rattled']",,0.6,16.3,"nan, 51.0, 23.0, 51.0, nan, 28.0",0
+98,99,661,"fairy, nan","['Cute Charm', 'Magic Guard', 'Unaware']",140.0,1.3,40.0,"nan, nan, nan, 95.0, nan, 60.0",0
+99,100,218,"rock, nan","['Sturdy', 'Rock Head', 'Rattled']",70.0,0.5,15.0,"nan, nan, 95.0, 10.0, 45.0, 10.0",0
+100,101,139,"poison, nan","['Stench', 'Sticky Hold', 'Aftermath']",70.0,0.6,31.0,"nan, 50.0, 62.0, 40.0, 62.0, 65.0",0
+101,102,42,"fire, flying","['Pressure', 'Regenerator']",,3.8,199.0,"106, nan, 90.0, 110.0, nan, 90.0",1
+102,103,19,"grass, fighting","['Effect Spore', 'Poison Heal', 'Technician']",70.0,1.2,39.2,"60, 130.0, nan, 60.0, 60.0, 70.0",0
+103,104,505,"ghost, grass",['Steelworker'],70.0,3.9,210.0,"70, 131.0, 100.0, 86.0, 90.0, 40.0",0
+104,105,592,"fighting, flying","['Limber', 'Unburden', 'Mold Breaker']",,0.8,21.5,"nan, 92.0, 75.0, 74.0, 63.0, 118.0",0
+105,106,419,"psychic, fairy","['Synchronize', 'Trace', 'Telepathy']",35.0,0.4,6.6,"nan, 25.0, 25.0, nan, 35.0, 40.0",0
+106,107,279,"normal, nan","['Run Away', 'Klutz', 'Limber']",0.0,0.4,5.5,"nan, 66.0, 44.0, 44.0, 56.0, 85.0",0
+107,108,603,"grass, nan","['Overgrow', 'Leaf Guard']",70.0,1.2,15.8,"nan, 62.0, 80.0, 63.0, 80.0, 60.0",0
+108,109,185,"water, ground","['Damp', 'Water Absorb', 'Unaware']",70.0,0.4,8.5,"nan, nan, 45.0, 25.0, 25.0, 15.0",0
+109,110,458,"psychic, nan",['Prism Armor'],0.0,2.4,230.0,"nan, nan, 101.0, 127.0, nan, 79.0",1
+110,111,286,"rock, fighting",['Justified'],35.0,1.9,260.0,"nan, 129.0, 90.0, 72.0, nan, 108.0",1
+111,112,272,"dark, nan","['Run Away', 'Quick Feet', 'Rattled']",70.0,0.5,13.6,"35, 55.0, 35.0, 30.0, 30.0, 35.0",0
+112,113,201,"fighting, dark","['Iron Fist', 'Mold Breaker', 'Scrappy']",70.0,2.1,136.0,"nan, 124.0, 78.0, 69.0, 71.0, 58.0",0
+113,114,747,"electric, nan","['Volt Absorb', 'Quick Feet']",70.0,0.8,24.5,"nan, nan, 60.0, 110.0, 95.0, 130.0",0
+114,115,487,"electric, nan","['Soundproof', 'Static', 'Aftermath']",70.0,0.5,10.4,"nan, nan, 50.0, 55.0, 55.0, 100.0",0
+115,116,452,"poison, dark","['Stench', 'Aftermath', 'Keen Eye']",70.0,1.0,38.0,"nan, 93.0, 67.0, 71.0, 61.0, 84.0",0
+116,117,207,"psychic, nan","['Synchronize', 'Inner Focus', 'Magic Guard']",,0.9,19.5,"nan, 20.0, 15.0, 105.0, 55.0, 90.0",0
+117,118,266,"fire, rock","['Magma Armor', 'Flame Body', 'Weak Armor']",70.0,0.8,55.0,"nan, 50.0, 120.0, 90.0, nan, 30.0",0
+118,119,627,"ghost, grass","['Pickup', 'Frisk', 'Insomnia']",70.0,1.7,39.0,"nan, 100.0, 122.0, 58.0, nan, 54.0",0
+119,120,620,"psychic, fairy","['Synchronize', 'Trace', 'Telepathy']",35.0,1.6,48.4,"nan, 85.0, nan, 165.0, 135.0, 100.0",0
+120,121,211,"psychic, nan",['Levitate'],100.0,1.5,85.6,"nan, nan, 120.0, 75.0, 130.0, 85.0",1
+121,122,545,"grass, dark","['Chlorophyll', 'Early Bird', 'Pickpocket']",70.0,1.0,28.0,"nan, 70.0, 40.0, nan, 40.0, 60.0",0
+122,123,280,"dark, dragon",['Hustle'],35.0,0.8,17.3,"nan, 65.0, nan, 45.0, 50.0, 38.0",0
+123,124,457,"fighting, nan","['Guts', 'Sheer Force', 'Iron Fist']",70.0,1.2,40.0,"nan, 105.0, 85.0, 40.0, 50.0, 40.0",0
+124,125,83,"water, nan","['Swift Swim', 'Oblivious', 'Adaptability']",70.0,0.6,7.4,"nan, nan, 20.0, 10.0, 55.0, 80.0",0
+125,126,82,"electric, nan","['Lightningrod', 'Motor Drive', 'Sap Sipper']",70.0,0.8,29.8,"nan, 60.0, 32.0, nan, nan, 76.0",0
+126,127,295,"psychic, nan","['Synchronize', 'Magic Bounce']",70.0,0.9,26.5,"nan, nan, 60.0, nan, 95.0, 110.0",0
+127,128,292,"bug, grass","['Swarm', 'Chlorophyll', 'Overcoat']",70.0,0.3,2.5,"nan, 53.0, 70.0, 40.0, nan, 42.0",0
+128,129,99,"ground, dark","['Intimidate', 'Moxie', 'Anger Point']",70.0,0.7,15.2,"nan, 72.0, 35.0, 35.0, nan, 65.0",0
+129,130,377,"dragon, ground","['Sand Veil', 'Rough Skin']",70.0,0.7,20.5,"58, nan, 45.0, 40.0, 45.0, 42.0",0
+130,131,317,"fairy, nan","['Hustle', 'Serene Grace', 'Super Luck']",70.0,0.3,1.5,"nan, 20.0, 65.0, 40.0, 65.0, 20.0",0
+131,132,405,"normal, flying","['Run Away', 'Early Bird', 'Tangled Feet']",,1.8,85.2,"nan, 110.0, 70.0, 60.0, 60.0, 110.0",0
+132,133,388,"dark, flying",['Dark Aura'],0.0,5.8,203.0,"nan, nan, 95.0, nan, 98.0, 99.0",1
+133,134,202,"fire, nan","['Blaze', 'Flash Fire']",70.0,0.5,7.9,"nan, 52.0, 43.0, 60.0, 50.0, 65.0",0
+134,135,633,"grass, poison","['Chlorophyll', 'Gluttony']",70.0,1.0,6.4,"nan, 90.0, nan, 85.0, 45.0, 55.0",0
+135,136,199,"water, ground","['Damp', 'Water Absorb', 'Unaware']",70.0,1.4,75.0,"nan, 85.0, 85.0, 65.0, 65.0, 35.0",0
+136,137,773,"psychic, nan",['Pressure'],0.0,1.7,60.8,"nan, 95.0, 90.0, nan, 90.0, 180.0",1
+137,138,182,"psychic, nan","['Telepathy', 'Synchronize', 'Analytic']",70.0,1.0,34.5,"nan, 75.0, 75.0, 125.0, nan, 40.0",0
+138,139,179,"water, nan","['Hyper Cutter', 'Shell Armor', 'Sheer Force']",,1.3,60.0,"nan, nan, 115.0, 50.0, 50.0, 75.0",0
+139,140,546,"normal, nan",['Fur Coat'],70.0,1.2,28.0,"75, nan, 60.0, 65.0, 90.0, 102.0",0
+140,141,689,"bug, flying","['Swarm', 'Early Bird', 'Rattled']",70.0,1.0,10.8,"nan, 20.0, 30.0, 40.0, 80.0, 55.0",0
+141,142,237,"water, flying","['Keen Eye', 'Drizzle', 'Rain Dish']",70.0,1.2,28.0,"nan, 50.0, 100.0, 95.0, 70.0, 65.0",0
+142,143,216,"water, nan","['Torrent', 'Sheer Force']",70.0,1.1,25.0,"nan, 80.0, 80.0, 59.0, 63.0, 58.0",0
+143,144,704,"dragon, psychic",['Levitate'],90.0,1.4,40.0,"nan, 100.0, 120.0, 140.0, 150.0, 110.0",1
+144,145,514,"fire, ground","['Magma Armor', 'Solid Rock', 'Anger Point']",70.0,1.9,220.0,"nan, 120.0, 100.0, 145.0, 105.0, 20.0",0
+145,146,44,"ground, flying","['Hyper Cutter', 'Sand Veil', 'Immunity']",70.0,1.1,64.8,"nan, 75.0, 105.0, 35.0, 65.0, 85.0",0
+146,147,194,"electric, nan","['Rivalry', 'Intimidate', 'Guts']",70.0,0.5,9.5,"45, nan, 34.0, 40.0, nan, 45.0",0
+147,148,188,"water, flying","['Keen Eye', 'Big Pecks', 'Hydration']",70.0,0.5,5.5,"nan, nan, 50.0, 44.0, 50.0, 55.0",0
+148,149,568,"fairy, nan","['Healer', 'Aroma Veil']",70.0,0.8,15.5,"nan, 72.0, 72.0, 99.0, 89.0, 29.0",0
+149,150,449,"poison, fighting","['Anticipation', 'Dry Skin', 'Poison Touch']",100.0,0.7,23.0,"48, 61.0, 40.0, 61.0, 40.0, 50.0",0
+150,151,355,"water, grass","['Swift Swim', 'Rain Dish', 'Own Tempo']",70.0,1.2,32.5,"nan, nan, 50.0, 60.0, 70.0, nan",0
+151,152,745,"normal, nan","['Run Away', 'Keen Eye', 'Analytic']",70.0,0.5,11.6,"nan, nan, 39.0, 35.0, 39.0, 42.0",0
+152,153,752,"fire, nan","['Hustle', 'Inner Focus']",70.0,0.6,37.5,"nan, 90.0, 45.0, 15.0, 45.0, 50.0",0
+153,154,534,"grass, nan","['Overgrow', 'Contrary']",70.0,0.8,16.0,"nan, nan, 75.0, 60.0, 75.0, 83.0",0
+154,155,733,"ice, ground","['Oblivious', 'Snow Cloak', 'Thick Fat']",70.0,0.4,6.5,"nan, 50.0, 40.0, 30.0, 30.0, 50.0",0
+155,156,107,"normal, water","['Simple', 'Unaware', 'Moody']",70.0,1.0,31.5,"79, 85.0, 60.0, 55.0, 60.0, 71.0",0
+156,157,238,"electric, nan","['Run Away', 'Pickup', 'Volt Absorb']",100.0,0.4,3.9,"60, 45.0, 70.0, 45.0, 90.0, 95.0",0
+157,158,651,"rock, nan","['Mold Breaker', 'Sheer Force']",70.0,0.9,31.5,"nan, 125.0, 40.0, 30.0, 30.0, 58.0",0
+158,159,54,"ice, psychic","['Oblivious', 'Forewarn', 'Hydration']",70.0,0.4,6.0,"nan, 30.0, 15.0, 85.0, 65.0, 65.0",0
+159,160,327,"ghost, ground","['Water Compaction', 'Sand Veil']",70.0,1.3,250.0,"nan, 75.0, 110.0, 100.0, 75.0, 35.0",0
+160,161,686,"normal, dragon","['Berserk', 'Sap Sipper', 'Cloud Nine']",70.0,3.0,185.0,"nan, 60.0, 85.0, 135.0, 91.0, 36.0",0
+161,162,25,"flying, nan","['Prankster', 'Defiant', 'Regenerator']",90.0,1.5,63.0,"nan, nan, 80.0, 110.0, 90.0, 121.0",1
+162,163,249,"ghost, grass","['Pickup', 'Frisk', 'Insomnia']",70.0,0.8,15.0,"nan, nan, nan, 44.0, 55.0, 41.0",0
+163,164,128,"normal, flying","['Keen Eye', 'Skill Link', 'Sheer Force']",70.0,1.1,26.0,"80, 120.0, 75.0, 75.0, 75.0, 60.0",0
+164,165,598,"steel, fairy",['Soul-Heart'],0.0,1.0,80.5,"nan, nan, 115.0, 130.0, 115.0, 65.0",1
+165,166,391,"bug, nan","['Swarm', 'Technician']",70.0,1.0,25.5,"nan, nan, 51.0, 55.0, 51.0, 65.0",0
+166,167,110,"water, poison","['Poison Point', 'Swift Swim', 'Intimidate']",,0.5,3.9,"65, 95.0, 85.0, 55.0, 55.0, 85.0",0
+167,168,614,"fairy, nan","['Intimidate', 'Quick Feet', 'Rattled']",70.0,1.4,48.7,"nan, 120.0, 75.0, nan, 60.0, 45.0",0
+168,169,2,"rock, bug","['Battle Armor', 'Swift Swim']",,0.7,12.5,"nan, 95.0, 50.0, 40.0, nan, 75.0",0
+169,170,328,"ghost, nan","['Insomnia', 'Frisk', 'Cursed Body']",,1.1,12.5,"nan, 165.0, 75.0, 93.0, 83.0, 75.0",0
+170,171,475,"ice, nan","['Snow Cloak', 'Ice Body']",35.0,0.8,25.9,"nan, 60.0, 110.0, 130.0, 95.0, 65.0",0
+171,172,454,"grass, poison","['Chlorophyll', 'Effect Spore']",70.0,1.2,18.6,"nan, 80.0, 85.0, 110.0, 90.0, 50.0",0
+172,173,359,"psychic, nan","['Keen Eye', 'Infiltrator', 'Own Tempo']",70.0,0.3,3.5,"nan, 48.0, 54.0, 63.0, 60.0, 68.0",0
+173,174,52,"fire, nan","['Pressure', 'Inner Focus']",35.0,2.1,198.0,"nan, 115.0, 85.0, 90.0, 75.0, 100.0",1
+174,175,630,"poison, ground","['Poison Point', 'Rivalry', 'Sheer Force']",,1.4,62.0,"nan, 102.0, 77.0, 85.0, 75.0, 85.0",0
+175,176,251,"dark, nan",['Illusion'],70.0,1.6,81.1,"nan, 105.0, 60.0, 120.0, 60.0, 105.0",0
+176,177,798,"rock, bug","['Battle Armor', 'Swift Swim']",70.0,1.5,68.2,"nan, 125.0, 100.0, 70.0, 80.0, 45.0",0
+177,178,105,"normal, nan","['Limber', 'Own Tempo', 'Keen Eye']",70.0,0.5,3.9,"nan, nan, 42.0, 42.0, 37.0, 85.0",0
+178,179,376,"dragon, flying","['Natural Cure', 'Cloud Nine']",70.0,1.1,20.6,"nan, 110.0, 110.0, 110.0, nan, 80.0",0
+179,180,540,"ice, nan","['Own Tempo', 'Ice Body', 'Sturdy']",70.0,2.0,505.0,"nan, 117.0, 184.0, 44.0, 46.0, 28.0",0
+180,181,334,"fire, nan","['Blaze', 'Flash Fire']",70.0,0.9,19.0,"nan, 64.0, 58.0, 80.0, 65.0, 80.0",0
+181,182,109,"dragon, ground","['Sand Veil', 'Rough Skin']",70.0,1.4,56.0,"nan, 90.0, 65.0, 50.0, 55.0, 82.0",0
+182,183,491,"ice, water","['Thick Fat', 'Ice Body', 'Oblivious']",70.0,1.4,150.6,"nan, nan, 90.0, 95.0, 90.0, 65.0",0
+183,184,657,"fire, psychic","['Blaze', 'Magician']",70.0,1.5,39.0,"nan, 69.0, 72.0, 114.0, 100.0, 104.0",0
+184,185,576,"dark, ghost","['Keen Eye', 'Stall', 'Prankster']",35.0,0.5,11.0,"nan, 85.0, 125.0, 85.0, 115.0, 20.0",0
+185,186,129,"water, bug","['Water Bubble', 'Water Absorb']",,1.8,82.0,"nan, 70.0, 92.0, 50.0, 132.0, 42.0",0
+186,187,587,"normal, flying","['Keen Eye', 'Sheer Force', 'Hustle']",70.0,0.5,10.5,"nan, nan, 50.0, 37.0, 50.0, 60.0",0
+187,188,701,"dragon, nan","['Rivalry', 'Mold Breaker', 'Unnerve']",35.0,1.0,36.0,"66, 117.0, 70.0, 40.0, 50.0, 67.0",0
+188,189,351,"electric, steel","['Magnet Pull', 'Sturdy', 'Analytic']",70.0,1.0,60.0,"50, 60.0, 95.0, 120.0, 70.0, 70.0",0
+189,190,632,"steel, nan","['Plus', 'Minus', 'Clear Body']",70.0,0.6,51.0,"nan, nan, 95.0, 70.0, 85.0, 50.0",0
+190,191,693,"normal, nan",['Truant'],70.0,2.0,130.5,"nan, nan, 100.0, nan, nan, 100.0",0
+191,192,509,"normal, flying","['Insomnia', 'Keen Eye', 'Tinted Lens']",70.0,1.6,40.8,"nan, nan, 50.0, 86.0, 96.0, 70.0",0
+192,193,47,"fire, nan","['Gluttony', 'Flash Fire', 'White Smoke']",70.0,1.4,58.0,"nan, 97.0, 66.0, 105.0, 66.0, 65.0",0
+193,194,177,"grass, grass","['Natural Cure', 'Serene Grace']",100.0,0.2,2.1,"nan, 103.0, 75.0, 120.0, 75.0, 127.0",1
+194,195,501,"normal, nan","['Intimidate', 'Frisk', 'Sap Sipper']",70.0,1.4,71.2,"nan, 95.0, 62.0, 85.0, 65.0, 85.0",0
+195,196,291,"bug, nan","['Shield Dust', 'Run Away']",70.0,0.3,3.6,"nan, 45.0, 35.0, 20.0, 30.0, 20.0",0
+196,197,574,"normal, nan","['Natural Cure', 'Serene Grace', 'Healer']",140.0,1.5,46.8,"nan, nan, 10.0, 75.0, nan, 55.0",0
+197,198,21,"dragon, nan","['Rock Head', 'Sheer Force']",35.0,0.6,42.1,"nan, nan, 60.0, 40.0, nan, 50.0",0
+198,199,275,"rock, nan","['Sturdy', 'Weak Armor', 'Sand Force']",70.0,0.4,18.0,"nan, 75.0, nan, 25.0, 25.0, 15.0",0
+199,200,663,"rock, fairy","['Clear Body', 'Sturdy']",70.0,0.3,5.7,"nan, 50.0, 150.0, 50.0, nan, 50.0",0
+200,201,706,"water, nan","['Torrent', 'Liquid Voice']",,0.4,7.5,"nan, nan, 54.0, 66.0, 56.0, 40.0",0
+201,202,278,"water, nan","['Illuminate', 'Natural Cure', 'Analytic']",70.0,0.8,34.5,"nan, nan, 55.0, 70.0, 55.0, 85.0",0
+202,203,658,"fire, nan","['Gluttony', 'Blaze']",70.0,0.6,11.0,"nan, 53.0, 48.0, 53.0, 48.0, 64.0",0
+203,204,672,"bug, flying","['Compoundeyes', 'Tinted Lens']",,1.1,32.0,"nan, 45.0, 50.0, nan, 80.0, 70.0",0
+204,205,310,"normal, nan",['Battle Armor'],0.0,1.9,120.5,"nan, 95.0, 95.0, nan, 95.0, 59.0",0
+205,206,13,"rock, nan","['Keen Eye', 'Vital Spirit', 'Steadfast']",70.0,0.5,9.2,"nan, 65.0, 40.0, 30.0, 40.0, 60.0",0
+206,207,401,"bug, poison","['Shield Dust', 'Tinted Lens', 'Wonder Skin ']",,1.5,12.5,"nan, 65.0, 60.0, 90.0, 75.0, 90.0",0
+207,208,404,"bug, electric",['Levitate'],70.0,1.5,45.0,"nan, 70.0, 90.0, 145.0, 75.0, 43.0",0
+208,209,736,"rock, flying","['Rock Head', 'Pressure', 'Unnerve']",70.0,1.8,59.0,"nan, 135.0, 85.0, 70.0, nan, 150.0",0
+209,210,56,"grass, nan","['Chlorophyll', 'Own Tempo', 'Leaf Guard']",70.0,1.1,16.3,"nan, nan, 75.0, 110.0, 75.0, 90.0",0
+210,211,220,"fire, ice","['Flash Fire', 'Drought', 'Snow Cloak', 'Snow Warning']",70.0,,,"nan, nan, 75.0, 81.0, nan, 109.0",0
+211,212,490,"bug, steel","['Swarm', 'Shell Armor', 'Overcoat']",70.0,1.0,33.0,"nan, 135.0, 105.0, 60.0, 105.0, 20.0",0
+212,213,697,"normal, fairy","['Cute Charm', 'Competitive', 'Frisk']",70.0,1.0,12.0,"nan, 70.0, nan, 85.0, 50.0, 45.0",0
+213,214,579,"psychic, flying","['Wonder Skin ', 'Magic Guard', 'Tinted Lens']",70.0,1.4,14.0,"nan, nan, 80.0, 103.0, nan, 97.0",0
+214,215,113,"ghost, ground","['Water Compaction', 'Sand Veil']",70.0,0.5,70.0,"55, 55.0, 80.0, 70.0, 45.0, 15.0",0
+215,216,126,"steel, fairy","['Prankster', 'Magician']",,0.2,3.0,"nan, 80.0, 91.0, 80.0, 87.0, 75.0",0
+216,217,433,"rock, water","['Tough Claws', 'Sniper', 'Pickpocket']",70.0,1.3,96.0,"nan, 105.0, 115.0, 54.0, 86.0, 68.0",0
+217,218,429,"steel, flying","['Keen Eye', 'Sturdy', 'Weak Armor']",70.0,1.7,50.5,"nan, 80.0, 140.0, nan, 70.0, 70.0",0
+218,219,48,"dragon, psychic",['Levitate'],90.0,2.0,60.0,"nan, 130.0, nan, 160.0, 120.0, 110.0",1
+219,220,760,"ice, flying","['Pressure', 'Snow Cloak']",35.0,1.7,55.4,"nan, 85.0, 100.0, 95.0, 125.0, 85.0",1
+220,221,361,"normal, flying","['Big Pecks', 'Super Luck', 'Rivalry']",,0.3,2.1,"nan, 55.0, nan, 36.0, 30.0, 43.0",0
+221,222,481,"rock, nan","['Keen Eye', 'Sand Rush', 'Steadfast', 'Keen Eye', 'Vital Spirit', 'No Guard']",70.0,,,"nan, 115.0, 75.0, 55.0, 75.0, 82.0",0
+222,223,206,"ghost, nan","['Pressure', 'Frisk']",35.0,2.2,106.6,"nan, nan, 135.0, 65.0, 135.0, 45.0",0
+223,224,289,"poison, fighting","['Anticipation', 'Dry Skin', 'Poison Touch']",70.0,1.3,44.4,"83, nan, 65.0, 86.0, nan, 85.0",0
+224,225,522,"ground, nan","['Sand Stream', 'Sand Force']",70.0,2.0,300.0,"nan, 112.0, 118.0, 68.0, nan, 47.0",0
+225,226,460,"dark, nan","['Limber', 'Unburden', 'Prankster']",70.0,1.1,37.5,"64, 88.0, 50.0, 88.0, 50.0, 106.0",0
+226,227,330,"grass, nan","['Chlorophyll', 'Leaf Guard', 'Regenerator']",70.0,2.0,128.6,"nan, 100.0, 125.0, 110.0, 50.0, 50.0",0
+227,228,27,"water, nan",['Hydration'],70.0,0.4,3.1,"nan, 80.0, nan, 80.0, 80.0, 80.0",0
+228,229,669,"psychic, ghost",['Shadow Shield'],0.0,4.0,120.0,"nan, 113.0, 89.0, 137.0, 107.0, 97.0",1
+229,230,448,"water, nan","['Water Veil', 'Oblivious', 'Pressure']",70.0,2.0,130.0,"nan, 70.0, 35.0, nan, nan, 60.0",0
+230,231,136,"normal, nan","['Guts', 'Quick Feet', 'Unnerve']",70.0,1.8,125.8,"nan, 130.0, 75.0, 75.0, 75.0, 55.0",0
+231,232,250,"normal, flying","['Keen Eye', 'Skill Link', 'Pickup']",70.0,0.3,1.2,"nan, 75.0, 30.0, 30.0, 30.0, 65.0",0
+232,233,398,"ground, ground","['Sand Veil', 'Arena Trap', 'Sand Force', 'Sand Veil', 'Tangling Hair', 'Sand Force']",70.0,,,"nan, nan, 30.0, 35.0, 45.0, 90.0",0
+233,234,600,"fire, flying","['Blaze', 'Solar Power']",,1.7,90.5,"nan, nan, 78.0, 159.0, 115.0, 100.0",0
+234,235,656,"electric, steel","['Magnet Pull', 'Sturdy', 'Analytic']",70.0,0.3,6.0,"nan, 35.0, 70.0, 95.0, 55.0, 45.0",0
+235,236,3,"bug, fighting",['Beast Boost'],0.0,1.8,25.0,"nan, 137.0, 37.0, 137.0, 37.0, 151.0",1
+236,237,189,"electric, nan","['Rivalry', 'Intimidate', 'Guts']",70.0,1.4,42.0,"nan, 120.0, 79.0, 95.0, nan, 70.0",0
+237,238,58,"fairy, nan","['Intimidate', 'Run Away', 'Rattled']",70.0,0.6,7.8,"nan, nan, 50.0, 40.0, 40.0, 30.0",0
+238,239,517,"bug, nan","['Shield Dust', 'Run Away']",70.0,0.3,2.9,"nan, 30.0, 35.0, 20.0, nan, 45.0",0
+239,240,423,"bug, flying","['Swarm', 'Rivalry']",70.0,1.0,28.4,"nan, 70.0, 50.0, 100.0, 50.0, 65.0",0
+240,241,618,"dark, nan","['Synchronize', 'Inner Focus']",35.0,1.0,27.0,"nan, 65.0, nan, 60.0, 130.0, 65.0",0
+241,242,585,"grass, ghost","['Overgrow', 'Long Reach']",70.0,1.6,36.6,"nan, 107.0, 75.0, 100.0, nan, 70.0",0
+242,243,711,"fire, nan","['Blaze', 'Intimidate']",70.0,0.4,4.3,"nan, 65.0, 40.0, 60.0, 40.0, 70.0",0
+243,244,232,"dark, nan",['Illusion'],70.0,0.7,12.5,"nan, 65.0, 40.0, 80.0, 40.0, 65.0",0
+244,245,316,"fire, nan","['Blaze', 'Solar Power']",70.0,0.6,8.5,"nan, 52.0, 43.0, 60.0, 50.0, 65.0",0
+245,246,531,"rock, steel","['Sturdy', 'Soundproof']",70.0,0.5,57.0,"nan, 42.0, 118.0, 42.0, 88.0, 30.0",0
+246,247,196,"steel, ghost",['No Guard'],70.0,0.8,4.5,"nan, nan, 150.0, 45.0, 49.0, 35.0",0
+247,248,443,"bug, poison","['Poison Point', 'Swarm', 'Speed Boost']",,1.2,58.5,"40, 55.0, 99.0, nan, nan, 47.0",0
+248,249,160,"steel, dragon","['Pressure', 'Telepathy']",0.0,5.4,683.0,"nan, 120.0, 120.0, 150.0, 100.0, 90.0",1
+249,250,533,"fire, nan","['Blaze', 'Intimidate']",70.0,0.7,25.0,"nan, 85.0, 50.0, 80.0, 50.0, 90.0",0
+250,251,742,"fire, normal","['Rivalry', 'Unnerve', 'Moxie']",,1.5,81.5,"nan, 68.0, nan, 109.0, 66.0, nan",0
+251,252,342,"grass, nan","['Chlorophyll', 'Solar Power', 'Early Bird']",70.0,0.8,8.5,"nan, 75.0, 55.0, 105.0, nan, 30.0",0
+252,253,239,"normal, flying","['Natural Cure', 'Cloud Nine']",70.0,0.4,1.2,"nan, 40.0, 60.0, 40.0, 75.0, 50.0",0
+253,254,323,"water, ground","['Torrent', 'Damp']",70.0,1.5,81.9,"nan, nan, 110.0, nan, 110.0, 70.0",0
+254,255,0,"grass, flying","['Overgrow', 'Long Reach']",70.0,0.7,16.0,"nan, 75.0, 75.0, 70.0, 70.0, 52.0",0
+255,256,252,"fairy, nan","['Healer', 'Aroma Veil']",70.0,0.2,0.5,"nan, 52.0, 60.0, 63.0, 65.0, 23.0",0
+256,257,586,"water, dark","['Rough Skin', 'Speed Boost']",35.0,1.8,88.8,"nan, 140.0, 70.0, 110.0, 65.0, 105.0",0
+257,258,137,"steel, psychic","['Clear Body', 'Light Metal']",35.0,1.6,550.0,"nan, 145.0, 150.0, 105.0, 110.0, 110.0",0
+258,259,94,"electric, fairy","['Electric Surge', 'Telepathy']",70.0,1.8,20.5,"nan, 115.0, 85.0, nan, 75.0, 130.0",1
+259,260,225,"fire, fighting","['Blaze', 'Speed Boost']",,1.9,52.0,"nan, 160.0, 80.0, 130.0, 80.0, 100.0",0
+260,261,530,"ground, dark","['Intimidate', 'Moxie', 'Anger Point']",70.0,1.5,96.3,"nan, 117.0, 80.0, 65.0, 70.0, 92.0",0
+261,262,350,"water, nan","['Torrent', 'Rain Dish']",70.0,1.6,85.5,"nan, 103.0, 120.0, 135.0, 115.0, nan",0
+262,263,303,"electric, normal","['Dry Skin', 'Sand Veil', 'Solar Power']",,1.0,21.0,"nan, 55.0, 52.0, 109.0, 94.0, 109.0",0
+263,264,338,"grass, steel","['Iron Barbs', 'Anticipation']",70.0,1.0,110.0,"74, nan, 131.0, 54.0, 116.0, 20.0",0
+264,265,648,"normal, nan","['Adaptability', 'Download', 'Analytic']",70.0,0.9,34.0,"nan, 80.0, nan, 135.0, 75.0, 90.0",0
+265,266,336,"water, nan","['Thick Fat', 'Hydration', 'Ice Body']",,1.1,90.0,"65, 45.0, 55.0, 45.0, 70.0, 45.0",0
+266,267,257,"water, bug","['Water Bubble', 'Water Absorb']",70.0,0.3,4.0,"nan, 40.0, 52.0, 40.0, 72.0, 27.0",0
+267,268,789,"psychic, nan",['Levitate'],140.0,0.3,0.3,"nan, nan, nan, 125.0, 70.0, 115.0",1
+268,269,86,"water, nan","['Torrent', 'Defiant']",70.0,0.4,5.2,"nan, 51.0, 53.0, 61.0, 56.0, 40.0",0
+269,270,652,"normal, nan","['Pickup', 'Gluttony', 'Quick Feet']",,0.5,32.5,"nan, 70.0, 61.0, 50.0, nan, 100.0",0
+270,271,488,"poison, nan",['Levitate'],70.0,0.6,1.0,"nan, 65.0, 95.0, 60.0, 45.0, 35.0",0
+271,272,261,"normal, nan","['Intimidate', 'Sand Rush', 'Scrappy']",70.0,1.2,61.0,"85, 110.0, nan, 45.0, 90.0, 80.0",0
+272,273,590,"normal, fighting","['Fluffy', 'Klutz', 'Unnerve']",70.0,2.1,135.0,"nan, nan, 80.0, nan, 60.0, 60.0",0
+273,274,57,"psychic, nan","['Pressure', 'Unnerve']",0.0,2.0,122.0,"nan, 150.0, 70.0, nan, 120.0, 140.0",1
+274,275,638,"poison, poison","['Stench', 'Sticky Hold', 'Poison Touch', 'Poison Touch', 'Gluttony', 'Power of Alchemy']",70.0,,,"nan, 80.0, 50.0, 40.0, 50.0, 25.0",0
+275,276,581,"grass, nan","['Overgrow', 'Unburden']",70.0,0.9,21.6,"nan, 65.0, 45.0, 85.0, 65.0, 95.0",0
+276,277,141,"normal, nan","['Healer', 'Regenerator', 'Klutz']",70.0,1.1,31.0,"nan, 60.0, 126.0, 80.0, nan, 50.0",0
+277,278,101,"rock, ground","['Rock Head', 'Sturdy', 'Weak Armor']",,8.8,210.0,"nan, 45.0, 160.0, 30.0, 45.0, 70.0",0
+278,279,728,"water, fighting",['Justified'],35.0,1.4,48.5,"nan, 72.0, 90.0, 129.0, 90.0, 108.0",1
+279,280,242,"grass, nan","['Sap Sipper', 'Grass Pelt']",70.0,0.9,31.0,"nan, nan, 48.0, 62.0, 57.0, 52.0",0
+280,281,183,"psychic, flying","['Pressure', 'Multiscale']",0.0,5.2,216.0,"nan, nan, 130.0, 90.0, 154.0, 110.0",1
+281,282,732,"ground, nan","['Own Tempo', 'Stamina', 'Inner Focus']",70.0,2.5,920.0,"nan, nan, 100.0, 55.0, 85.0, 35.0",0
+282,283,476,"psychic, steel",['Full Metal Body'],0.0,3.4,230.0,"137, nan, 107.0, 113.0, nan, 97.0",1
+283,284,799,"rock, psychic",['Levitate'],70.0,1.0,168.0,"nan, nan, 65.0, 95.0, 85.0, 70.0",0
+284,285,421,"water, nan","['Swift Swim', 'Water Veil', 'Lightningrod']",,1.3,39.0,"nan, 92.0, 65.0, 65.0, 80.0, 68.0",0
+285,286,134,"fire, ground","['Oblivious', 'Simple', 'Own Tempo']",70.0,0.7,24.0,"nan, 60.0, 40.0, 65.0, nan, 35.0",0
+286,287,650,"normal, flying","['Keen Eye', 'Tangled Feet', 'Big Pecks']",70.0,1.1,30.0,"nan, 60.0, 55.0, 50.0, 50.0, 71.0",0
+287,288,233,"fire, flying","['Flame Body', 'Gale Wings']",70.0,1.2,24.5,"nan, 81.0, nan, 74.0, 69.0, 126.0",0
+288,289,162,"grass, poison","['Effect Spore', 'Regenerator']",70.0,0.6,10.5,"nan, 85.0, 70.0, 85.0, nan, 30.0",0
+289,290,12,"poison, nan","['Poison Point', 'Rivalry', 'Hustle']",70.0,0.4,7.0,"nan, 47.0, 52.0, 40.0, 40.0, 41.0",0
+290,291,395,"electric, nan","['Static', 'Lightningrod']",70.0,0.3,2.0,"nan, 40.0, 15.0, 35.0, 35.0, 60.0",0
+291,292,717,"dragon, ice","['Pressure', 'Teravolt', 'Turboblaze']",0.0,3.0,325.0,"nan, 120.0, 90.0, 170.0, nan, 95.0",1
+292,293,24,"rock, dark","['Sand Stream', 'Unnerve']",35.0,2.0,202.0,"nan, nan, 150.0, 95.0, 120.0, 71.0",0
+293,294,119,"rock, water","['Tough Claws', 'Sniper', 'Pickpocket']",70.0,0.5,31.0,"42, nan, 67.0, 39.0, 56.0, 50.0",0
+294,295,687,"psychic, flying","['Synchronize', 'Early Bird', 'Magic Bounce']",70.0,1.5,15.0,"nan, 75.0, 70.0, 95.0, 70.0, 95.0",0
+295,296,784,"electric, nan","['Static', 'Vital Spirit']",70.0,0.6,23.5,"nan, 63.0, 37.0, 65.0, 55.0, 95.0",0
+296,297,465,"water, nan","['Hustle', 'Sniper', 'Moody']",70.0,0.6,12.0,"nan, 65.0, 35.0, 65.0, 35.0, 65.0",0
+297,298,782,"fire, fighting","['Blaze', 'Speed Boost']",70.0,0.9,19.5,"nan, 85.0, 60.0, 85.0, nan, 55.0",0
+298,299,305,"ghost, flying","['Aftermath', 'Unburden', 'Flare Boost']",70.0,0.4,1.2,"nan, 50.0, 34.0, 60.0, 44.0, 70.0",0
+299,300,10,"rock, ground","['Guts', 'Sand Veil']",35.0,0.6,72.0,"nan, 64.0, 50.0, nan, 50.0, nan",0
+300,301,114,"bug, nan","['Shed Skin', 'Friend Guard']",70.0,0.3,8.4,"nan, nan, nan, 27.0, 30.0, 29.0",0
+301,302,418,"water, nan","['Torrent', 'Protean']",70.0,0.6,10.9,"nan, 63.0, 52.0, 83.0, 56.0, 97.0",0
+302,303,146,"fire, fighting","['Blaze', 'Reckless']",70.0,1.6,150.0,"110, 123.0, 65.0, 100.0, 65.0, 65.0",0
+303,304,566,"steel, fighting",['Justified'],35.0,2.1,250.0,"nan, 90.0, 129.0, 90.0, 72.0, 108.0",1
+304,305,108,"water, flying","['Keen Eye', 'Big Pecks', 'Hydration']",70.0,1.3,24.2,"nan, 87.0, 63.0, 87.0, 63.0, 98.0",0
+305,306,308,"grass, nan","['Sand Veil', 'Water Absorb']",35.0,0.4,51.3,"nan, 85.0, 40.0, 85.0, 40.0, 35.0",0
+306,307,41,"electric, nan",['Levitate'],70.0,2.1,80.5,"nan, 115.0, 80.0, 105.0, nan, 50.0",0
+307,308,411,"bug, poison",['Shed Skin'],70.0,0.6,10.0,"nan, 25.0, 50.0, 25.0, 25.0, 35.0",0
+308,309,193,"fire, nan","['Intimidate', 'Flash Fire', 'Justified']",70.0,0.7,19.0,"55, 70.0, nan, 70.0, 50.0, 60.0",0
+309,310,662,"dragon, nan","['Sap Sipper', 'Hydration', 'Gooey']",,0.3,2.8,"nan, nan, nan, 55.0, nan, 40.0",0
+310,311,103,"normal, nan","['Own Tempo', 'Oblivious', 'Cloud Nine']",70.0,1.2,65.5,"nan, nan, nan, 60.0, 75.0, 30.0",0
+311,312,702,"ground, rock","['Lightningrod', 'Rock Head', 'Reckless']",70.0,1.0,115.0,"nan, 85.0, 95.0, 30.0, nan, 25.0",0
+312,313,46,"fighting, psychic","['Pure Power', 'Telepathy']",70.0,0.6,11.2,"nan, 40.0, 55.0, 40.0, 55.0, 60.0",0
+313,314,176,"dark, flying","['Big Pecks', 'Overcoat', 'Weak Armor']",35.0,0.5,9.0,"nan, nan, nan, 45.0, 65.0, 60.0",0
+314,315,164,"ground, nan","['Sand Stream', 'Sand Force']",70.0,0.8,49.5,"nan, 72.0, 78.0, 38.0, 42.0, 32.0",0
+315,316,609,"fighting, steel","['Steadfast', 'Inner Focus', 'Justified']",70.0,1.2,54.0,"nan, 145.0, 88.0, 140.0, 70.0, 112.0",0
+316,317,298,"water, nan","['Shell Armor', 'Skill Link', 'Overcoat']",70.0,0.3,4.0,"nan, 65.0, 100.0, 45.0, 25.0, 40.0",0
+317,318,1,"fighting, nan","['Guts', 'No Guard', 'Steadfast']",70.0,1.6,130.0,"nan, 130.0, 80.0, 65.0, 85.0, 55.0",0
+318,319,402,"water, nan",['Mega Launcher'],70.0,1.3,35.3,"nan, 73.0, 88.0, 120.0, 89.0, 59.0",0
+319,320,112,"normal, flying","['Big Pecks', 'Super Luck', 'Rivalry']",70.0,0.6,15.0,"nan, nan, 62.0, nan, 42.0, 65.0",0
+320,321,446,"electric, nan","['Lightningrod', 'Motor Drive', 'Sap Sipper']",,1.6,79.5,"75, 100.0, 63.0, 80.0, 63.0, 116.0",0
+321,322,168,"rock, ground","['Rock Head', 'Sturdy', 'Sand Veil', 'Magnet Pull', 'Sturdy', 'Galvanize']",70.0,,,"nan, 80.0, 100.0, 30.0, nan, 20.0",0
+322,323,186,"ice, water","['Thick Fat', 'Ice Body', 'Oblivious']",70.0,0.8,39.5,"nan, 40.0, 50.0, 55.0, 50.0, 25.0",0
+323,324,135,"normal, nan","['Pickup', 'Quick Feet', 'Honey Gather']",70.0,0.6,8.8,"nan, 80.0, 50.0, 50.0, 50.0, 40.0",0
+324,325,725,"water, fairy","['Misty Surge', 'Telepathy']",70.0,1.3,21.2,"nan, 75.0, 115.0, 95.0, 130.0, 85.0",1
+325,326,413,"bug, grass","['Anticipation', 'Overcoat']",,0.5,6.5,"nan, nan, 95.0, 69.0, 95.0, 36.0",0
+326,327,561,"water, ground","['Swift Swim', 'Hydration', 'Water Absorb']",70.0,0.8,17.0,"nan, 65.0, 55.0, 65.0, 55.0, 69.0",0
+327,328,584,"dragon, nan","['Rivalry', 'Mold Breaker', 'Unnerve']",35.0,1.8,105.5,"nan, nan, 90.0, 60.0, 70.0, 97.0",0
+328,329,755,"grass, nan","['Overgrow', 'Leaf Guard']",,1.8,100.5,"nan, 82.0, 100.0, 83.0, 100.0, 80.0",0
+329,330,674,"ice, flying","['Vital Spirit', 'Hustle', 'Insomnia']",70.0,0.9,16.0,"45, 55.0, 45.0, 65.0, 45.0, 75.0",0
+330,331,524,"grass, poison","['Natural Cure', 'Poison Point', 'Leaf Guard']",70.0,0.3,2.0,"nan, nan, 45.0, nan, 80.0, 65.0",0
+331,332,407,"normal, flying","['Keen Eye', 'Sniper']",70.0,1.2,38.0,"nan, 90.0, 65.0, 61.0, nan, 100.0",0
+332,333,713,"grass, nan","['Overgrow', 'Contrary']",70.0,3.3,63.0,"nan, 75.0, 95.0, nan, 95.0, 113.0",0
+333,334,163,"water, nan","['Damp', 'Cloud Nine', 'Swift Swim']",,1.7,76.6,"nan, 82.0, 78.0, 95.0, 80.0, 85.0",0
+334,335,778,"electric, flying","['Prankster', 'Defiant', 'Volt Absorb']",90.0,1.5,61.0,"nan, nan, 70.0, 145.0, 80.0, 101.0",1
+335,336,480,"bug, poison","['Swarm', 'Insomnia', 'Sniper']",70.0,0.5,8.5,"nan, 60.0, 40.0, nan, 40.0, 30.0",0
+336,337,175,"dark, nan","['Limber', 'Unburden', 'Prankster']",70.0,0.4,10.1,"nan, 50.0, 37.0, 50.0, 37.0, 66.0",0
+337,338,748,"rock, ice","['Refrigerate', 'Snow Warning']",70.0,1.3,25.2,"nan, nan, 50.0, 67.0, 63.0, 46.0",0
+338,339,644,"water, flying","['Intimidate', 'Moxie']",70.0,6.5,235.0,"nan, 155.0, nan, 70.0, 130.0, 81.0",0
+339,340,403,"water, grass","['Swift Swim', 'Rain Dish', 'Own Tempo']",70.0,1.5,55.0,"nan, 70.0, 70.0, 90.0, 100.0, 70.0",0
+340,341,607,"water, nan","['Swift Swim', 'Hydration', 'Water Absorb']",70.0,0.5,4.5,"nan, nan, 40.0, 50.0, 40.0, 64.0",0
+341,342,348,"normal, nan","['Pickup', 'Gluttony', 'Quick Feet']",70.0,0.4,17.5,"38, 30.0, 41.0, 30.0, nan, 60.0",0
+342,343,467,"fairy, nan","['Flower Veil', 'Symbiosis']",70.0,0.1,0.1,"nan, 38.0, 39.0, 61.0, 79.0, 42.0",0
+343,344,228,"electric, nan","['Pressure', 'Inner Focus']",35.0,1.9,178.0,"nan, 85.0, 75.0, 115.0, 100.0, 115.0",1
+344,345,506,"normal, flying","['Keen Eye', 'Reckless']",70.0,0.3,2.0,"40, 55.0, 30.0, 30.0, 30.0, 60.0",0
+345,346,432,"water, ghost","['Water Absorb', 'Cursed Body', 'Damp']",70.0,2.2,135.0,"nan, nan, 70.0, 85.0, 105.0, 60.0",0
+346,347,331,"poison, nan","['Liquid Ooze', 'Sticky Hold', 'Gluttony']",70.0,1.7,80.0,"nan, 73.0, nan, 73.0, 83.0, 55.0",0
+347,348,502,"normal, fairy","['Cute Charm', 'Competitive', 'Friend Guard']",70.0,0.5,5.5,"115, 45.0, 20.0, 45.0, 25.0, 20.0",0
+348,349,61,"grass, flying","['Overgrow', 'Long Reach']",70.0,0.3,1.5,"nan, nan, 55.0, 50.0, 50.0, 42.0",0
+349,350,750,"electric, fairy","['Cheek Pouch', 'Pickup', 'Plus']",70.0,0.2,2.2,"nan, 58.0, 57.0, 81.0, 67.0, 101.0",0
+350,351,378,"fire, dragon",['Shell Armor'],70.0,2.0,212.0,"nan, 78.0, 135.0, 91.0, 85.0, nan",0
+351,352,382,"grass, poison","['Overgrow', 'Chlorophyll']",70.0,0.7,6.9,"nan, nan, 49.0, 65.0, 65.0, 45.0",0
+352,353,357,"ghost, poison",['Levitate'],70.0,1.6,0.1,"nan, nan, 45.0, 115.0, 55.0, 95.0",0
+353,354,89,"fire, nan","['Gluttony', 'Blaze']",70.0,1.0,28.0,"nan, 98.0, 63.0, nan, 63.0, 101.0",0
+354,355,117,"electric, nan","['Rivalry', 'Intimidate', 'Guts']",100.0,0.9,30.5,"nan, 85.0, 49.0, nan, 49.0, 60.0",0
+355,356,572,"electric, nan","['Static', 'Plus']",70.0,0.8,13.3,"nan, 55.0, 55.0, 80.0, 60.0, 45.0",0
+356,357,399,"fire, dark","['Blaze', 'Intimidate']",70.0,1.8,83.0,"nan, 115.0, 90.0, 80.0, 90.0, 60.0",0
+357,358,65,"normal, nan","['Natural Cure', 'Serene Grace', 'Friend Guard']",140.0,0.6,24.4,"nan, 5.0, 5.0, 15.0, 65.0, 30.0",0
+358,359,18,"dark, nan","['Intimidate', 'Quick Feet', 'Moxie']",70.0,1.0,37.0,"nan, 90.0, 70.0, 60.0, nan, 70.0",0
+359,360,746,"psychic, fire",['Victory Star'],,0.4,4.0,"nan, 100.0, 100.0, 100.0, 100.0, 100.0",1
+360,361,589,"dark, dragon",['Levitate'],35.0,1.8,160.0,"nan, 105.0, 90.0, 125.0, 90.0, 98.0",0
+361,362,451,"normal, nan","['Natural Cure', 'Serene Grace', 'Healer']",140.0,1.1,34.6,"nan, 5.0, 5.0, 35.0, 105.0, 50.0",0
+362,363,91,"water, poison","['Clear Body', 'Liquid Ooze', 'Rain Dish']",70.0,0.9,45.5,"nan, 40.0, 35.0, 50.0, 100.0, 70.0",0
+363,364,527,"psychic, nan","['Insomnia', 'Forewarn', 'Inner Focus']",70.0,1.0,32.4,"nan, 48.0, 45.0, 43.0, 90.0, 42.0",0
+364,365,776,"bug, flying","['Honey Gather', 'Hustle']",70.0,0.3,5.5,"nan, 30.0, 42.0, 30.0, 42.0, 70.0",0
+365,366,508,"bug, nan","['Shield Dust', 'Compoundeyes', 'Friend Guard']",70.0,0.3,2.5,"nan, nan, 40.0, nan, 25.0, 35.0",0
+366,367,106,"poison, dark","['Battle Armor', 'Sniper', 'Keen Eye']",70.0,1.3,61.5,"nan, 90.0, 110.0, nan, 75.0, 95.0",0
+367,368,230,"grass, flying","['Chlorophyll', 'Leaf Guard', 'Infiltrator']",70.0,0.4,0.5,"nan, 35.0, 40.0, 35.0, 55.0, 50.0",0
+368,369,20,"grass, nan","['Chlorophyll', 'Early Bird', 'Pickpocket']",70.0,0.5,4.0,"nan, nan, 50.0, 30.0, 30.0, 30.0",0
+369,370,161,"psychic, nan","['Overcoat', 'Magic Guard', 'Regenerator']",,1.0,20.1,"nan, 65.0, 75.0, 125.0, 85.0, 30.0",0
+370,371,40,"normal, nan","['Cute Charm', 'Technician', 'Skill Link']",70.0,0.4,5.8,"nan, 50.0, 40.0, 40.0, 40.0, nan",0
+371,372,785,"dark, steel","['Defiant', 'Inner Focus', 'Pressure']",35.0,0.5,10.2,"nan, 85.0, 70.0, 40.0, 40.0, 60.0",0
+372,373,466,"fighting, nan","['Intimidate', 'Technician', 'Steadfast']",70.0,1.4,48.0,"nan, nan, 95.0, 35.0, 110.0, 70.0",0
+373,374,445,"poison, water","['Poison Point', 'Poison Touch', 'Adaptability']",70.0,0.5,7.3,"nan, 60.0, 60.0, 60.0, 60.0, 30.0",0
+374,375,169,"normal, dark","['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",70.0,,,"30, 56.0, 35.0, 25.0, nan, 72.0",0
+375,376,425,"grass, poison","['Chlorophyll', 'Stench']",70.0,0.8,8.6,"nan, 65.0, 70.0, 85.0, 75.0, 40.0",0
+376,377,549,"ghost, fire","['Flash Fire', 'Flame Body', 'Infiltrator']",70.0,0.3,3.1,"50, 30.0, 55.0, nan, 55.0, 20.0",0
+377,378,569,"water, nan","['Water Absorb', 'Damp', 'Swift Swim']",70.0,0.6,12.4,"nan, nan, 40.0, 40.0, 40.0, 90.0",0
+378,379,23,"normal, nan","['Limber', 'Imposter']",70.0,0.3,4.0,"nan, 48.0, 48.0, nan, 48.0, 48.0",0
+379,380,187,"fire, nan","['White Smoke', 'Drought', 'Shell Armor']",70.0,0.5,80.4,"nan, 85.0, 140.0, 85.0, 70.0, 20.0",0
+380,381,416,"dark, ice","['Inner Focus', 'Keen Eye', 'Pickpocket']",35.0,0.9,28.0,"nan, 95.0, 55.0, 35.0, 75.0, 115.0",0
+381,382,769,"dark, fire","['Early Bird', 'Flash Fire', 'Unnerve']",35.0,1.4,35.0,"nan, nan, 90.0, 140.0, 90.0, 115.0",0
+382,383,315,"fairy, nan","['Sweet Veil', 'Unburden']",70.0,0.8,5.0,"nan, 80.0, 86.0, 85.0, 75.0, 72.0",0
+383,384,339,"water, nan","['Torrent', 'Shell Armor']",70.0,1.5,94.6,"nan, 100.0, 85.0, 108.0, 70.0, 70.0",0
+384,385,594,"psychic, nan","['Synchronize', 'Inner Focus', 'Magic Guard']",70.0,1.5,48.0,"nan, 50.0, 65.0, 175.0, nan, 150.0",0
+385,386,420,"normal, nan","['Cute Charm', 'Klutz', 'Limber']",140.0,1.2,33.3,"nan, nan, 94.0, nan, 96.0, nan",0
+386,387,198,"electric, flying","['Pressure', 'Static']",35.0,1.6,52.6,"nan, nan, 85.0, 125.0, 90.0, 100.0",1
+387,388,477,"bug, steel","['Swarm', 'Technician', 'Light Metal']",70.0,1.8,118.0,"nan, nan, nan, 65.0, 100.0, 75.0",0
+388,389,325,"normal, psychic","['Inner Focus', 'Early Bird', 'Sap Sipper']",70.0,1.5,41.5,"nan, 80.0, 65.0, 90.0, 65.0, 85.0",0
+389,390,459,"dragon, flying","['Intimidate', 'Moxie']",35.0,1.5,102.6,"nan, 145.0, 130.0, 120.0, 90.0, 120.0",0
+390,391,573,"normal, nan","['Cute Charm', 'Normalize', 'Wonder Skin ']",70.0,0.6,11.0,"nan, 45.0, 45.0, 35.0, 35.0, 50.0",0
+391,392,424,"grass, nan","['Overgrow', 'Bulletproof']",70.0,0.4,9.0,"nan, nan, 65.0, 48.0, nan, 38.0",0
+392,393,453,"fire, nan","['Blaze', 'Speed Boost']",70.0,0.4,2.5,"nan, 60.0, 40.0, 70.0, nan, 45.0",0
+393,394,708,"rock, nan","['Sturdy', 'Weak Armor', 'Sand Force']",70.0,0.9,102.0,"nan, 105.0, 105.0, 50.0, 40.0, 20.0",0
+394,395,621,"grass, fairy","['Illuminate', 'Effect Spore', 'Rain Dish']",70.0,0.2,1.5,"nan, 35.0, 55.0, 65.0, 75.0, 15.0",0
+395,396,441,"psychic, nan","['Keen Eye', 'Infiltrator', 'Prankster', 'Competitive']",70.0,0.6,8.5,"nan, 48.0, 76.0, 83.0, nan, 104.0",0
+396,397,387,"water, rock","['Swift Swim', 'Rock Head', 'Sturdy']",70.0,1.0,23.4,"nan, 90.0, 130.0, 45.0, 65.0, 55.0",0
+397,398,70,"fire, nan","['Blaze', 'Magician']",70.0,1.0,14.5,"nan, 59.0, nan, 90.0, 70.0, 73.0",0
+398,399,604,"ice, nan","['Snow Cloak', 'Slush Rush', 'Rattled']",70.0,0.5,8.5,"nan, 70.0, 40.0, 60.0, 40.0, 40.0",0
+399,400,297,"fighting, nan","['Sturdy', 'Inner Focus', 'Mold Breaker']",70.0,1.4,51.0,"nan, nan, 75.0, 30.0, 75.0, 85.0",0
+400,401,709,"water, nan","['Swift Swim', 'Sniper', 'Damp']",70.0,0.4,8.0,"nan, nan, 70.0, 70.0, 25.0, 60.0",0
+401,402,287,"fire, nan","['Blaze', 'Solar Power']",70.0,1.1,19.0,"58, 64.0, 58.0, 80.0, 65.0, 80.0",0
+402,403,519,"fire, nan","['Blaze', 'Magician']",70.0,0.4,9.4,"nan, nan, 40.0, 62.0, 60.0, 60.0",0
+403,404,591,"normal, nan","['Thick Fat', 'Own Tempo', 'Defiant']",70.0,1.0,43.8,"nan, 82.0, 64.0, 64.0, 59.0, 112.0",0
+404,405,363,"normal, nan","['Cute Charm', 'Normalize', 'Wonder Skin ']",70.0,1.1,32.6,"nan, 65.0, 65.0, 55.0, 55.0, 90.0",0
+405,406,80,"ice, ground","['Oblivious', 'Snow Cloak', 'Thick Fat']",70.0,1.1,55.8,"nan, 100.0, 80.0, 60.0, 60.0, 50.0",0
+406,407,510,"normal, nan","['Soundproof', 'Scrappy']",70.0,1.5,84.0,"nan, 91.0, 63.0, 91.0, nan, 68.0",0
+407,408,740,"fire, fighting","['Blaze', 'Iron Fist']",70.0,1.2,55.0,"nan, 104.0, 71.0, 104.0, 71.0, nan",0
+408,409,138,"water, nan","['Swift Swim', 'Water Veil']",70.0,1.1,33.5,"nan, 105.0, 55.0, 85.0, 50.0, 115.0",0
+409,410,792,"psychic, nan","['Overcoat', 'Magic Guard', 'Regenerator']",70.0,0.3,1.0,"nan, nan, 40.0, nan, 50.0, 20.0",0
+410,411,575,"grass, poison","['Overgrow', 'Chlorophyll']",70.0,1.0,13.0,"60, 62.0, 63.0, 80.0, 80.0, 60.0",0
+411,412,262,"psychic, nan","['Insomnia', 'Forewarn', 'Inner Focus']",,1.6,75.6,"nan, nan, 70.0, 73.0, 115.0, 67.0",0
+412,413,92,"grass, nan","['Leaf Guard', 'Contrary']",70.0,0.9,18.5,"nan, 105.0, 90.0, 80.0, 90.0, 45.0",0
+413,414,762,"bug, grass","['Swarm', 'Chlorophyll', 'Overcoat']",70.0,1.2,20.5,"nan, 103.0, 80.0, 70.0, 80.0, 92.0",0
+414,415,227,"ice, water","['Thick Fat', 'Ice Body', 'Oblivious']",,1.1,87.6,"nan, 60.0, 70.0, 75.0, 70.0, 45.0",0
+415,416,343,"bug, ghost",['Wonder Guard'],70.0,0.8,1.2,"nan, 90.0, 45.0, 30.0, 30.0, 40.0",0
+416,417,215,"psychic, fairy","['Soundproof', 'Filter', 'Technician']",70.0,0.6,13.0,"nan, nan, nan, 70.0, nan, 60.0",0
+417,418,739,"normal, nan","['Trace', 'Download', 'Analytic']",70.0,0.6,32.5,"nan, 80.0, 90.0, 105.0, nan, 60.0",0
+418,419,646,"water, nan","['Swift Swim', 'Hydration']",70.0,0.6,8.7,"nan, nan, nan, 40.0, nan, 97.0",0
+419,420,111,"grass, nan","['Chlorophyll', 'Solar Power', 'Early Bird']",70.0,0.3,1.8,"30, 30.0, 30.0, 30.0, 30.0, 30.0",0
+420,421,683,"fairy, nan","['Flower Veil', 'Symbiosis']",70.0,1.1,10.0,"nan, nan, 68.0, 112.0, 154.0, 75.0",0
+421,422,414,"fighting, nan","['Thick Fat', 'Guts', 'Sheer Force']",70.0,1.0,86.4,"nan, 60.0, 30.0, 20.0, 30.0, 25.0",0
+422,423,39,"normal, nan","['Color Change', 'Protean']",70.0,1.0,22.0,"60, 90.0, 70.0, nan, nan, 40.0",0
+423,424,284,"water, nan","['Swift Swim', 'Rattled']",70.0,0.9,10.0,"nan, nan, nan, 15.0, 20.0, 80.0",0
+424,425,631,"electric, nan","['Plus', 'Lightningrod']",70.0,0.4,4.2,"nan, 50.0, 40.0, 85.0, 75.0, 95.0",0
+425,426,758,"water, fairy","['Torrent', 'Liquid Voice']",70.0,1.8,44.0,"nan, 74.0, 74.0, 126.0, 116.0, 60.0",0
+426,427,259,"water, dragon","['Pressure', 'Telepathy']",0.0,4.2,336.0,"nan, 120.0, 100.0, 150.0, 120.0, 100.0",1
+427,428,31,"rock, nan","['Sturdy', 'Magnet Pull', 'Sand Force']",70.0,1.0,97.0,"nan, nan, 135.0, 45.0, 90.0, 30.0",0
+428,429,337,"ground, rock","['Lightningrod', 'Solid Rock', 'Reckless']",70.0,2.4,282.8,"nan, 140.0, 130.0, 55.0, 55.0, 40.0",0
+429,430,559,"water, fighting","['Water Absorb', 'Damp', 'Swift Swim']",70.0,1.3,54.0,"nan, 95.0, 95.0, 70.0, 90.0, 70.0",0
+430,431,290,"water, nan","['Pressure', 'Inner Focus']",35.0,2.0,187.0,"nan, nan, 115.0, 90.0, 115.0, 85.0",1
+431,432,131,"normal, nan","['Run Away', 'Pickup', 'Skill Link']",70.0,0.8,11.5,"nan, nan, 55.0, 40.0, nan, 85.0",0
+432,433,352,"psychic, flying","['Synchronize', 'Early Bird', 'Magic Bounce']",,0.2,2.0,"nan, 50.0, 45.0, 70.0, nan, 70.0",0
+433,434,696,"fire, nan","['Blaze', 'Thick Fat']",70.0,0.5,9.9,"nan, 63.0, 45.0, nan, nan, 45.0",0
+434,435,268,"ground, nan","['Sand Rush', 'Sand Force', 'Mold Breaker']",70.0,0.3,8.5,"nan, nan, 40.0, 30.0, nan, 68.0",0
+435,436,150,"psychic, nan",['Unaware'],0.0,0.2,0.1,"nan, nan, 31.0, 29.0, nan, 37.0",1
+436,437,786,"psychic, flying","['Unaware', 'Klutz', 'Simple']",70.0,0.4,2.1,"nan, nan, nan, 55.0, 43.0, 72.0",0
+437,438,492,"psychic, ghost",['Magician'],100.0,,,"nan, 160.0, 60.0, 170.0, nan, 80.0",1
+438,439,396,"bug, flying","['Swarm', 'Early Bird', 'Iron Fist']",70.0,1.4,35.6,"nan, 35.0, nan, 55.0, nan, 85.0",0
+439,440,774,"normal, nan","['Immunity', 'Thick Fat', 'Gluttony']",70.0,2.1,460.0,"nan, 110.0, 65.0, 65.0, 110.0, 30.0",0
+440,441,520,"poison, nan","['Stench', 'Weak Armor', 'Aftermath']",70.0,1.9,107.3,"nan, nan, 82.0, 60.0, 82.0, 75.0",0
+441,442,597,"grass, nan","['Gluttony', 'Overgrow']",,0.6,10.5,"nan, nan, 48.0, 53.0, nan, 64.0",0
+442,443,406,"normal, flying","['Intimidate', 'Reckless']",70.0,0.6,15.5,"nan, 75.0, 50.0, 40.0, 40.0, 80.0",0
+443,444,369,"steel, ghost",['No Guard'],70.0,0.8,2.0,"nan, nan, 100.0, 35.0, nan, 28.0",0
+444,445,371,"grass, flying","['Chlorophyll', 'Solar Power', 'Harvest']",70.0,2.0,100.0,"nan, 68.0, 83.0, 72.0, 87.0, nan",0
+445,446,383,"dragon, nan","['Rock Head', 'Overcoat']",35.0,1.1,110.5,"nan, nan, 100.0, 60.0, 50.0, 50.0",0
+446,447,148,"psychic, nan","['Thick Fat', 'Own Tempo', 'Gluttony']",70.0,0.9,71.5,"nan, nan, 65.0, 90.0, nan, 80.0",0
+447,448,483,"poison, nan","['Poison Point', 'Rivalry', 'Hustle']",,0.5,9.0,"46, 57.0, 40.0, 40.0, 40.0, 50.0",0
+448,449,503,"fairy, nan","['Flower Veil', 'Triage', 'Natural Cure']",70.0,0.1,0.3,"51, 52.0, 90.0, nan, 110.0, 100.0",0
+449,450,304,"dragon, nan","['Shed Skin', 'Marvel Scale']",35.0,4.0,16.5,"nan, nan, 65.0, 70.0, nan, 70.0",0
+450,451,642,"psychic, nan","['Shadow Tag', 'Telepathy']",70.0,0.6,14.0,"nan, 23.0, 48.0, 23.0, 48.0, 23.0",0
+451,452,553,"dragon, ground","['Sand Veil', 'Rough Skin']",70.0,1.9,95.0,"nan, nan, 115.0, 120.0, 95.0, 92.0",0
+452,453,4,"psychic, nan","['Overcoat', 'Magic Guard', 'Regenerator']",70.0,0.6,8.0,"nan, 40.0, 50.0, 125.0, 60.0, 30.0",0
+453,454,649,"rock, flying",['Defeatist'],70.0,0.5,9.5,"nan, 112.0, 45.0, 74.0, 45.0, 70.0",0
+454,455,655,"electric, nan","['Soundproof', 'Static', 'Aftermath']",,1.2,66.6,"nan, 50.0, 70.0, 80.0, 80.0, 150.0",0
+455,456,307,"psychic, fairy","['Synchronize', 'Trace', 'Telepathy']",35.0,0.8,20.2,"nan, nan, 35.0, 65.0, 55.0, 50.0",0
+456,457,84,"normal, grass","['Chlorophyll', 'Sap Sipper', 'Serene Grace']",70.0,1.9,92.5,"nan, 100.0, 70.0, 60.0, 70.0, 95.0",0
+457,458,127,"water, nan","['Reckless', 'Rock Head', 'Adaptability', 'Mold Breaker']",70.0,1.0,18.0,"70, 92.0, 65.0, 80.0, 55.0, 98.0",0
+458,459,484,"dragon, fighting","['Bulletproof', 'Soundproof', 'Overcoat']",70.0,1.6,78.2,"nan, nan, 125.0, 100.0, 105.0, 85.0",0
+459,460,273,"ghost, dragon","['Pressure', 'Telepathy', 'Levitate']",0.0,4.5,750.0,"nan, nan, 100.0, nan, nan, 90.0",1
+460,461,356,"psychic, nan","['Frisk', 'Competitive', 'Shadow Tag']",70.0,0.7,18.0,"nan, nan, 70.0, 75.0, 85.0, 55.0",0
+461,462,684,"fighting, nan","['Guts', 'No Guard', 'Steadfast']",70.0,1.5,70.5,"nan, 100.0, 70.0, nan, 60.0, 45.0",0
+462,463,437,"water, nan","['Swift Swim', 'Storm Drain', 'Water Veil']",70.0,0.4,7.0,"nan, 49.0, nan, 49.0, 61.0, 66.0",0
+463,464,783,"grass, nan","['Gluttony', 'Overgrow']",70.0,1.1,30.5,"nan, nan, 63.0, 98.0, 63.0, 101.0",0
+464,465,333,"poison, dragon","['Poison Point', 'Poison Touch', 'Adaptability']",70.0,1.8,81.5,"nan, nan, 90.0, nan, 123.0, 44.0",0
+465,466,281,"grass, dark","['Sand Veil', 'Water Absorb']",,1.3,77.4,"nan, 115.0, 60.0, 115.0, 60.0, 55.0",0
+466,467,51,"bug, nan",['Swarm'],70.0,0.4,4.4,"nan, nan, 45.0, 55.0, 45.0, 46.0",0
+467,468,582,"electric, nan",['Levitate'],70.0,0.2,0.3,"35, nan, 40.0, 45.0, 40.0, 60.0",0
+468,469,374,"psychic, nan","['Telepathy', 'Synchronize', 'Analytic']",70.0,0.5,9.0,"55, 55.0, 55.0, 85.0, 55.0, 30.0",0
+469,470,541,"grass, nan",['Flower Gift'],70.0,0.5,9.3,"nan, 60.0, 70.0, 87.0, 78.0, 85.0",0
+470,471,485,"dark, flying","['Insomnia', 'Super Luck', 'Prankster']",35.0,0.5,2.1,"nan, nan, 42.0, 85.0, 42.0, 91.0",0
+471,472,59,"water, nan","['Water Absorb', 'Damp', 'Drizzle']",70.0,1.1,33.9,"nan, 75.0, 75.0, 90.0, nan, 70.0",0
+472,473,397,"poison, dark","['Stench', 'Aftermath', 'Keen Eye']",70.0,0.4,19.2,"nan, 63.0, 47.0, 41.0, 41.0, 74.0",0
+473,474,372,"grass, poison","['Natural Cure', 'Poison Point', 'Technician']",70.0,0.9,14.5,"nan, nan, 65.0, 125.0, 105.0, 90.0",0
+474,475,619,"dark, steel","['Defiant', 'Inner Focus', 'Pressure']",35.0,1.6,70.0,"65, nan, 100.0, 60.0, 70.0, 70.0",0
+475,476,679,"normal, nan",['Vital Spirit'],70.0,1.4,46.5,"nan, 80.0, 80.0, 55.0, nan, 90.0",0
+476,477,447,"normal, nan",['Slow Start'],0.0,3.7,420.0,"nan, 160.0, 110.0, 80.0, 110.0, 100.0",1
+477,478,494,"normal, flying","['Big Pecks', 'Gale Wings']",70.0,0.3,1.7,"nan, 50.0, 43.0, 40.0, 38.0, 62.0",0
+478,479,340,"water, nan","['Water Veil', 'Oblivious', 'Pressure']",70.0,14.5,398.0,"nan, 90.0, 45.0, 90.0, 45.0, 60.0",0
+479,480,125,"water, nan","['Torrent', 'Shell Armor']",70.0,0.8,24.5,"nan, 75.0, 60.0, 83.0, 60.0, 60.0",0
+480,481,676,"water, dragon","['Swift Swim', 'Sniper', 'Damp']",,1.8,152.0,"nan, nan, 95.0, 95.0, 95.0, 85.0",0
+481,482,767,"ghost, nan",['Levitate'],35.0,0.9,4.4,"nan, nan, 60.0, 105.0, 105.0, 105.0",0
+482,483,235,"water, ground","['Sticky Hold', 'Storm Drain', 'Sand Force']",70.0,0.9,29.9,"nan, 83.0, 68.0, nan, 82.0, 39.0",0
+483,484,277,"fire, nan","['Flame Body', 'Vital Spirit']",70.0,1.3,44.5,"nan, nan, 57.0, nan, 85.0, 93.0",0
+484,485,81,"grass, fairy","['Prankster', 'Infiltrator', 'Chlorophyll']",70.0,0.7,6.6,"nan, 67.0, 85.0, 77.0, 75.0, 116.0",0
+485,486,714,"grass, poison","['Chlorophyll', 'Gluttony']",70.0,0.7,4.0,"nan, nan, 35.0, 70.0, 30.0, 40.0",0
+486,487,60,"normal, fairy","['Thick Fat', 'Huge Power', 'Sap Sipper']",70.0,0.2,2.0,"nan, 20.0, 40.0, 20.0, 40.0, 20.0",0
+487,488,727,"ground, nan","['Pickup', 'Sand Veil']",70.0,0.5,33.5,"nan, nan, nan, 40.0, 40.0, 40.0",0
+488,489,793,"fire, water",['Water Absorb'],100.0,1.7,195.0,"nan, 110.0, 120.0, 130.0, 90.0, 70.0",1
+489,490,664,"normal, nan",['Multitype'],0.0,3.2,320.0,"nan, 120.0, 120.0, 120.0, 120.0, 120.0",1
+490,491,647,"bug, rock","['Sturdy', 'Shell Armor', 'Weak Armor']",70.0,0.3,14.5,"nan, 65.0, 85.0, 35.0, 35.0, 55.0",0
+491,492,765,"water, nan","['Swift Swim', 'Hydration']",70.0,1.8,22.6,"nan, 84.0, 105.0, 114.0, 75.0, 52.0",0
+492,493,17,"steel, nan","['Plus', 'Minus', 'Clear Body']",70.0,0.6,81.0,"nan, 100.0, 115.0, 70.0, 85.0, 90.0",0
+493,494,673,"water, ice","['Thick Fat', 'Hydration', 'Ice Body']",70.0,1.7,120.0,"nan, 70.0, 80.0, nan, 95.0, 70.0",0
+494,495,213,"grass, nan","['Sap Sipper', 'Grass Pelt']",70.0,1.7,91.0,"nan, 100.0, 62.0, 97.0, nan, 68.0",0
+495,496,482,"bug, fighting","['Swarm', 'Guts', 'Moxie']",70.0,1.5,54.0,"nan, 185.0, 115.0, 40.0, 105.0, 75.0",0
+496,497,479,"ice, nan","['Ice Body', 'Snow Cloak', 'Weak Armor']",70.0,1.1,41.0,"nan, 65.0, nan, 80.0, 75.0, 59.0",0
+497,498,43,"normal, nan","['Vital Spirit', 'Pickup', 'Run Away']",70.0,0.4,4.1,"nan, 60.0, 45.0, 25.0, 45.0, 55.0",0
+498,499,677,"grass, nan",['Chlorophyll'],70.0,0.4,3.3,"nan, 35.0, 45.0, nan, nan, 35.0",0
+499,500,240,"bug, poison","['Swarm', 'Sniper']",70.0,1.0,29.5,"nan, 150.0, 40.0, 15.0, 80.0, 145.0",0
+500,501,285,"normal, dark","['Run Away', 'Guts', 'Hustle', 'Gluttony', 'Hustle', 'Thick Fat']",70.0,,,"nan, 71.0, 70.0, 40.0, 80.0, 77.0",0
+501,502,158,"fighting, nan","['Vital Spirit', 'Anger Point', 'Defiant']",,0.5,28.0,"nan, 80.0, 35.0, nan, 45.0, 70.0",0
+502,503,98,"grass, nan","['Overgrow', 'Leaf Guard']",70.0,0.9,6.4,"nan, 49.0, 65.0, 49.0, 65.0, 45.0",0
+503,504,511,"bug, nan","['Hydration', 'Shell Armor', 'Overcoat']",,0.4,7.7,"nan, 40.0, 85.0, 40.0, 65.0, 25.0",0
+504,505,571,"rock, nan","['Mold Breaker', 'Sheer Force']",70.0,1.6,102.5,"nan, 165.0, 60.0, 65.0, 50.0, 58.0",0
+505,506,132,"bug, poison","['Poison Point', 'Swarm', 'Speed Boost']",70.0,2.5,200.5,"nan, 100.0, 89.0, 55.0, nan, 112.0",0
+506,507,622,"fire, fighting","['Blaze', 'Iron Fist']",70.0,0.9,22.0,"nan, 78.0, 52.0, 78.0, 52.0, 81.0",0
+507,508,666,"water, nan","['Hyper Cutter', 'Shell Armor', 'Sheer Force']",70.0,0.4,6.5,"nan, 105.0, 90.0, 25.0, 25.0, 50.0",0
+508,509,735,"water, nan",['Hydration'],70.0,0.3,1.4,"nan, 100.0, 100.0, 100.0, 100.0, 100.0",1
+509,510,85,"poison, nan","['Intimidate', 'Shed Skin', 'Unnerve']",70.0,2.0,6.9,"nan, nan, 44.0, 40.0, 54.0, 55.0",0
+510,511,400,"normal, flying","['Keen Eye', 'Tangled Feet', 'Big Pecks']",70.0,1.5,39.5,"83, 80.0, 80.0, 135.0, 80.0, 121.0",0
+511,512,698,"steel, nan","['Clear Body', 'Light Metal']",35.0,1.9,205.0,"nan, nan, 150.0, 75.0, 150.0, 50.0",1
+512,513,318,"water, nan","['Shell Armor', 'Rattled']",70.0,0.4,52.5,"nan, 64.0, 85.0, 74.0, 55.0, 32.0",0
+513,514,93,"psychic, nan",['Sturdy'],0.0,0.1,999.9,"43, 29.0, 131.0, 29.0, 131.0, 37.0",1
+514,515,217,"electric, ghost",['Levitate'],70.0,0.3,0.3,"nan, nan, 107.0, 105.0, 107.0, 86.0",0
+515,516,123,"fairy, flying","['Hustle', 'Serene Grace', 'Super Luck']",70.0,0.6,3.2,"nan, nan, nan, 80.0, 105.0, 40.0",0
+516,517,690,"ice, psychic","['Oblivious', 'Forewarn', 'Dry Skin']",70.0,1.4,40.6,"nan, 50.0, 35.0, 115.0, 95.0, 95.0",0
+517,518,147,"dark, dragon",['Hustle'],35.0,1.4,50.0,"nan, nan, 70.0, 65.0, 70.0, 58.0",0
+518,519,69,"normal, nan","['Own Tempo', 'Tangled Feet', 'Contrary']",70.0,1.1,5.0,"60, nan, 60.0, 60.0, 60.0, 60.0",0
+519,520,461,"dragon, flying","['Inner Focus', 'Multiscale']",35.0,2.2,210.0,"nan, 134.0, 95.0, 100.0, 100.0, 80.0",0
